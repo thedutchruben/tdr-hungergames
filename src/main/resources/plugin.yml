@@ -1,0 +1,7 @@
+name: TDRHungergames
+version: '${project.version}'
+main: nl.thedutchruben.tdrhungergames.TDRHungergames
+api-version: '1.20'
+load: STARTUP
+authors: [ TheDutchRuben ]
+description: The hungergames plugin you need
